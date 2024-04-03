@@ -2,6 +2,9 @@ hello!
 my name is Ayperi
 i'm 26 years old
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
+=======
+>>>>>>> parent of 8d10495 (hehehe)
 =======
 >>>>>>> parent of 8d10495 (hehehe)
